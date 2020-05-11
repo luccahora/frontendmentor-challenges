@@ -1,0 +1,103 @@
+body{ 
+    background-image: url("/img/bg-intro-desktop.png");
+    background-color:rgb(250, 79, 79);
+}
+
+.app{
+    font-family: 'Poppins';
+    margin: 50px;
+}
+
+.titulos{
+    padding-top: 15%;
+    padding-left: 10%;
+}
+
+.container-principal{
+    display: flex;
+    justify-content: space-between;
+}
+
+.titulo-pagina{
+    color: white;
+    font-size: 50px;
+    font-weight: 500;
+}
+
+.subtitulo-pagina{
+    color: white;
+    padding-top: 25px;
+}
+
+.subtitulo-pagina p{
+    margin: 5px;
+}
+
+.sessao-fomulario{
+    padding-top: 5%;
+    padding-right: 7%;
+}
+
+.box-trial{
+    width: 489px;
+    height: 50px;
+    color: white;
+    background-color:rgb(122, 2, 177);
+    border-radius: 10px;
+}
+
+.box-trial h4{
+    text-align: center;
+    padding-top: 15px;
+    
+}
+
+.span-bold-branco{
+    font-weight: 600;
+}
+
+.fomulario-background{
+   width: 489px;
+   height: 440px;
+   background-color: white;
+   border-radius: 20px;
+   margin-top: 8%;
+}
+
+.input-form{
+    padding-top: 40px;
+    padding-left: 37px;
+}
+
+.input-box{
+    font-family: 'Poppins';
+    
+    width: 400px;
+    height: 30px;
+    padding: 10px;
+    margin-bottom: 12px;
+    border: 1px solid gainsboro;
+    border-radius: 5px;    
+}
+
+.input-btn{
+    font-family: 'Poppins';
+    width: 425px;
+	background-color:#39c55e;
+	border-radius:8px;
+	cursor:pointer;
+	color:#ffffff;
+	padding:16px 75px;
+}
+
+.descricao-formulario{
+    margin-top: 10px;
+    color: rgb(189, 189, 189);
+    font-size: 13px;
+    text-align: center;
+}
+
+.span-bold-vermelho{
+    color: rgba(250, 79, 79, 0.815);
+    font-weight: 600;
+}
