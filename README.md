@@ -1,2 +1,2 @@
 # Frontend Mentor Challenges
-Repositório criado para realizar desafios do Frontend Mentor.
+Repositório criado para realizar desafios do Frontend Mentor. :rocket:
